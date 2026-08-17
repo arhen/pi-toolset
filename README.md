@@ -1,5 +1,9 @@
 # @arhen/pi — minimalist pi packages
 
+> [!IMPORTANT]
+> **ARCHIVED** — this package now lives in the [**pi-extensions monorepo**](https://github.com/arhen/pi-extensions/tree/main/packages/pi-toolset).
+> Issues, releases, and new versions are managed there. This repository is kept for history; no further changes land here.
+
 Minimalist [pi coding agent](https://github.com/earendil-works/pi) extensions that just solve problems. One package, one problem. No config surfaces, minimal context footprint.
 
 ## Install
